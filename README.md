@@ -1,4 +1,4 @@
-# Beam Task
+# Beam Task [![Build Status](https://travis-ci.org/MoMahameed/MAF.svg?branch=master)](https://travis-ci.org/MoMahameed/MAF)
 -------------------------------------------------------------------------------------------------------------------------------
 
 # Documentation
